@@ -1,5 +1,5 @@
 export const NotFound = () => {
     return (
-        <div></div>
+        <div>Ошибка</div>
     );
 }

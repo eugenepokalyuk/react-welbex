@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42f01111.css",
+    "main.js": "/static/js/main.cec482e6.js",
+    "static/js/787.8488b6e9.chunk.js": "/static/js/787.8488b6e9.chunk.js",
+    "static/media/bgDesktop.webp": "/static/media/bgDesktop.731aba55376f3a18225c.webp",
+    "static/media/bg.png": "/static/media/bg.84bef3049ca485cc5291.png",
+    "static/media/logo_welbex.svg": "/static/media/logo_welbex.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.aa789269b4df071a3b62b72f2b53be31.svg",
+    "static/media/viber.svg": "/static/media/viber.4bee52521a2107c2de2d65077a804e2d.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.a16ae18450af05cd82e2601ea4a3d605.svg",
+    "main.42f01111.css.map": "/static/css/main.42f01111.css.map",
+    "main.cec482e6.js.map": "/static/js/main.cec482e6.js.map",
+    "787.8488b6e9.chunk.js.map": "/static/js/787.8488b6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f01111.css",
+    "static/js/main.cec482e6.js"
+  ]
+}
